@@ -1,3 +1,4 @@
+
 # Smart India Hackathon Workshop
 # Date:26.09.2025
 ## Register Number:25016032
@@ -49,22 +50,13 @@ Agriculture, FoodTech & Rural Development
 Market linkage support – price updates and collective selling via FPOs.
  Community knowledge hubs with trained local volunteers.
 Feedback system – farmers’ inputs improve future recommendations.
-
-
-Do you want me to make this into a project-style format (Problem → Solution → Benefits) so you can use it in a report or submission?
 ## Technical Approach
 System Design: Hybrid model (digital + offline support).
-
 Data Sources: Weather APIs, soil data, crop calendars, market prices.
-
 Decision Engine: Rule-based/AI models for crop-specific, location-based advice.
-
 Advisory Delivery: SMS, IVR (voice in local language), mobile app/chatbot for smartphone users.
-
 Farmer Profiling: Registration with details (land size, crops, soil type).
-
 Feedback Loop: Farmer responses improve accuracy of future advisories.
-
 Scalability: Start with SMS/voice → later add IoT sensors & advanced AI tools.
 <img width="1158" height="833" alt="Screenshot 2025-09-26 215155" src="https://github.com/user-attachments/assets/c79e1f2f-3760-4e25-b785-9127fd133e47" />
 ## Feasibility and ViabilitY
