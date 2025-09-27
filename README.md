@@ -66,10 +66,7 @@ Farmer Profiling: Registration with details (land size, crops, soil type).
 Feedback Loop: Farmer responses improve accuracy of future advisories.
 
 Scalability: Start with SMS/voice → later add IoT sensors & advanced AI tools.
-![Uploading Screenshot 2025-09-26 215155.png…]()
-
-
-
+<img width="1158" height="833" alt="Screenshot 2025-09-26 215155" src="https://github.com/user-attachments/assets/c79e1f2f-3760-4e25-b785-9127fd133e47" />
 ## Feasibility and ViabilitY
 Feasibility
 Technical: Works on basic phones (SMS/IVR), scalable with apps/IoT.
